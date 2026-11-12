@@ -2,7 +2,7 @@
 
 - Mã học viên theo lớp: `2A202603325`
 - Ngày / CVAT local: `12/11/2026`
-- Công cụ đã dùng: CVAT local
+- Công cụ đã dùng: CVAT thủ công, tool chạy model Yolo, SegFormer
 
 ## 1. Bài đã nộp
 
